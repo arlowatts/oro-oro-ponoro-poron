@@ -30,6 +30,7 @@ background:
     him with a fractured childhood. Many suitors offered to help Gava raise her son while she ruled the clan, but she
     spurned them and chose to instead take Babanak''s upbringing into her own hands.
 
+
     Throughout Babanak''s childhood, Gava raised him with the intention that he would one day succeed her as the clan''s
     leader. She brought Babanak to every council meeting, invited him to read every diplomatic letter, and shared her
     reasonings with him at every hour of the day. This gave Babanak a brilliant political intuition, a trait he still
@@ -39,6 +40,7 @@ background:
     unavoidable and tragic. Consequently, Babanak always thought of his parents as unattainable ideals, to be forever
     approached but never reached. Each of his failures pained him deeply, and they still do.
 
+
     Despite his idealization of his parents, Babanak was frustrated by his lack of freedom in the citadel. Gava kept him
     occupied at all times and never let him wander freely, so his social experiences were limited. Nonetheless, Babanak
     found the time to become friends with the apprentices of a nearby carpenter, one of whom was Tantan the Inventor.
@@ -46,12 +48,14 @@ background:
     bloomed. Much to his mother''s annoyance, Babanak began to skip important meetings in order to spend time with
     Tantan and her friends.
 
+
     A few years later, Gava suffered a debilitating injury which left her unable to speak or walk. Babanak, being
     already familiar with the political workings of the Bekebel clan, was the obvious choice as her successor. So, just
     as Gava had anticipated, he was unanimously chosen by Gava''s advisors to take her place as the leader of the clan
     until she recovered. In early days of his rulership, Babanak continued to live much as he had before, spending
     several hours with Tantan each day. However, as time went on, it became clear that Gava would never return to full
     health. Babanak finally took the title of Babanak the Great and assumed a permanent ruling position.
+
 
     Since Babanak became the ruler of the Bekebel clan 59 years ago, he has faced both political and personal issues.
     The war with the Lukurru clan proved a source of constant negotiations, parleys, and fresh grievances. Eventually
@@ -62,6 +66,7 @@ background:
     marry. Babanak trusted their visions and promised Tantan that they would marry when the seers'' visions changed.
     They remained unmarried and continued their normal duties, seeing each other only in the time they could spare.
     Babanak repeatedly asked his seers if the vision had changed, but always the answer was the same.
+
 
     Over time Babanak forgot his old wants and became increasingly invested in the clan''s success and safety. He spends
     long days working with engineers, craftspeople, and miners to enlarge [[Bekebel Citadel:Bekebel]]''s borders and
