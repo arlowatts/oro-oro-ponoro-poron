@@ -5,4 +5,4 @@ author:
 
 remote_theme: jekyll/minima@v2.5.2
 
-permalink: /:path/:title
+permalink: /:path
