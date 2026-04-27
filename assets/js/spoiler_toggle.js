@@ -1,11 +1,11 @@
 // wait until the page loads
-addEventListener("load", main);
+addEventListener('load', main);
 
-spoilerToggleId = "spoiler-toggle";
-spoilerStyleTitle = "spoiler-style";
+spoilerToggleId = 'spoiler-toggle';
+spoilerStyleTitle = 'spoiler-style';
 
-showText = "Show spoilers";
-hideText = "Hide spoilers";
+showText = 'Show spoilers';
+hideText = 'Hide spoilers';
 
 function main() {
     let spoilerHidden = true;
@@ -17,22 +17,22 @@ function main() {
     const spoilerStyle = getStyleSheet(spoilerStyleTitle).cssRules[0].style;
 
     // set up the event listener for the toggle switch
-    spoilerToggle.addEventListener("click", () => {
+    spoilerToggle.addEventListener('click', function () {
         if (spoilerHidden) {
-            spoilerHidden = false;
             spoilerToggle.textContent = hideText;
-            spoilerStyle.display = "";
+            spoilerStyle.display = '';
         }
         else {
-            spoilerHidden = true;
             spoilerToggle.textContent = showText;
-            spoilerStyle.display = "none";
+            spoilerStyle.display = 'none';
         }
+
+        spoilerHidden = !spoilerHidden;
     });
 
     // set the initial text content and show the button
     spoilerToggle.textContent = showText;
-    spoilerToggle.style.display = "initial";
+    spoilerToggle.style.display = '';
 }
 
 // access a stylesheet by the title attribute
