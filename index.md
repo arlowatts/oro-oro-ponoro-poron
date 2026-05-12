@@ -25,6 +25,9 @@ competition with one another. Nearly all clans worship one or more dragons, and 
 determines the nature of its alliances. Some notable clans are the [[Bekebel]], [[Lukurru]], [[Dagana]], and [[Perexel]]
 clans.
 
+Not all kobolds worship dragons, however. The independent city of [[Krakakanamar]] acts as an anchor for
+Oro-oro-ponoro-poron's nomadic families and, in recent years, has risen from a minor settlement to a major shipping hub.
+
 ## The Caldera
 
 The caldera of Oro-oro-ponoro-poron is a sight to behold. It is filled with churning magma, emitting tremendous heat and
