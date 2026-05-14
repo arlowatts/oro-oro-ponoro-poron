@@ -46,11 +46,11 @@ The chupacabra is a dog-like creature with four powerful legs and a high arching
 silence, waiting until the last moment to pounce. Chupacabras live and hunt alone. They mostly avoid gangs of kobolds,
 preferring to stay well hidden in the safety of the jungle.
 
-### Moas
+### Moa
 
-Moas are large flightless birds that subsist on a variety of plants around the island, and are also known to eat small
+Moa are large flightless birds that subsist on a variety of plants around the island, and are also known to eat small
 rocks to help digest their food. They wander the jungles in flocks of three to eight in search of lush undergrowth and
-shelter from the local predators. Dragons, kobolds, and chupacabras alike prey on moas.
+shelter from the local predators. Dragons, kobolds, and chupacabras alike prey on moa.
 
 ### Goats
 
