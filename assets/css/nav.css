@@ -1,5 +1,9 @@
+:root {
+    --site-header-height: 60px;
+}
+
 .site-header {
-    height: 60px;
+    height: var(--site-header-height);
 }
 
 .site-logo {
@@ -13,7 +17,7 @@
 .site-nav {
     position: inherit !important;
     border: inherit !important;
-    line-height: 60px;
+    line-height: var(--site-header-height);
 }
 
 .crumbs {
