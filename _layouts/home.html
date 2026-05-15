@@ -1,0 +1,33 @@
+---
+layout: base
+---
+
+<article class="post">
+
+    <div class="post-content">
+        {%- assign chunks = content | split: "[[" -%}
+        {%- for chunk in chunks -%}
+            {%- if forloop.first -%}
+                {{ chunk }}
+            {%- else -%}
+                {%- assign chunk_parts = chunk | split: "]]" -%}
+                {%- assign link = chunk_parts | first | split: ":" -%}
+                {%- assign remaining_content = chunk_parts | last -%}
+                {%- assign link_text = link | first -%}
+                {%- assign link_title = link | last -%}
+                {%- assign linked_page = site.pages | where: "title", link_title | first -%}
+                {%- if linked_page -%}
+                    {%- if page.url == linked_page.url or page.url contains linked_page.url and link_text == link_title -%}
+                        <span class="self-link">{{ link_text }}</span>
+                    {%- else -%}
+                        <a href="{{ linked_page.url | relative_url }}">{{ link_text }}</a>
+                    {%- endif -%}
+                {%- else -%}
+                    <span class="broken-link">{{ link_text }}</span>
+                {%- endif -%}
+                {{ remaining_content }}
+            {%- endif -%}
+        {%- endfor -%}
+    </div>
+
+</article>

@@ -4,13 +4,18 @@
 
 .site-header {
     height: var(--site-header-height);
+
+    & .wrapper {
+        text-align: center;
+    }
 }
 
 .site-logo {
     display: inline-block;
 
     & img {
-        padding: 5px;
+        padding: calc(var(--site-header-height) * 0.1);
+        height: calc(var(--site-header-height) * 0.8);
     }
 }
 

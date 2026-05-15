@@ -2,7 +2,7 @@
 
 title: Oro-oro-ponoro-poron
 
-layout: page
+layout: home
 
 ---
 
