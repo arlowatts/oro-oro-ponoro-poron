@@ -16,6 +16,7 @@
     & img {
         padding: calc(var(--site-header-height) * 0.1);
         height: calc(var(--site-header-height) * 0.8);
+        max-width: calc(100% - var(--site-header-height) * 0.1);
     }
 }
 
