@@ -1,63 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216.32 64">
-    <path d="M 51.46114 7.46114
-        A 32 32 0 1 0 96.53886 52.53886
-        A 32 32 0 0 1 51.46114 7.46114"
-    />
-    <path d="M 57.14770 13.14770
-        A 24 24 0 0 1 90.85230 46.85230
-        A 24 24 0 1 0 57.14770 13.14770"
-    />
-    <!-- T glyph -->
-    <path d="M 0 8
-        h 39
-        v 7
-        h -16
-        v 41
-        h -7
-        v -41
-        h -16
-        v -7"
-    />
-    <!-- R glyph -->
-    <path d="M 108 8
-        h 14
-        a 18 16 0 0 1 0 32
-        h -8
-        v -7
-        h 8
-        a 11 9 0 0 0 0 -18
-        h -7
-        v 41
-        h -7
-        v 48"
-    />
-    <path d="M 119 36
-        h 9
-        l 16 20
-        h -9
-        l -16 -20"
-    />
-    <!-- Y glyph -->
-    <path d="M 142 8
-        h 7.5
-        l 12 24
-        l 12 -24
-        h 7.5
-        l -16 32
-        v 16
-        h -7
-        v -16
-        l -16 -32"
-    />
-    <!-- S glyph -->
-    <path d="M 216 12
-        c -22 -8 -33 0 -32 11
-        s 22 12 24 19
-        s -12 10 -24 2
-        v 8
-        c 22 8 33 0 32 -11
-        s -22 -12 -24 -19
-        s 12 -10 24 -2
-        v -8"
-    />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12.2 1">
+    <path stroke="none" fill="black" d="M 0.88341961 0.82091961 A 0.500 0.500 0 0 1 0.17908039 0.11658039 A 0.500 0.500 0 1 0 0.88341961 0.82091961"></path>
+    <path stroke="none" fill="black" d="M 0.79456718 0.73206718 A 0.375 0.375 0 1 0 0.26793282 0.20543282 A 0.375 0.375 0 0 1 0.79456718 0.73206718"></path>
+
+    <symbol id="n" width="0.45" height="0.6" viewBox="0 0 0.75 1">
+        <path stroke="none" fill="black" d="M 0 1 V 0 H 0.2 L 0.55 0.6 V 0 H 0.75 V 1 H 0.55 L 0.2 0.4 V 1 H 0"></path>
+    </symbol>
+
+    <symbol id="o" width="0.6" height="0.6" viewBox="0 0 1 1">
+        <circle stroke="black" fill="none" stroke-width="0.2" r="0.4" cx="0.5" cy="0.5"></circle>
+    </symbol>
+
+    <symbol id="p" width="0.45" height="0.6" viewBox="0 0 0.75 1">
+        <path stroke="none" fill="black" d="M 0 1 V 0 H 0.4 A 0.35 0.35 0 0 1 0.4 0.7 H 0.1 V 0.5 H 0.4 A 0.15 0.15 0 0 0 0.4 0.2 H 0.2 V 1 H 0"></path>
+    </symbol>
+
+    <symbol id="r" width="0.45" height="0.6" viewBox="0 0 0.75 1">
+        <path stroke="none" fill="black" d="M 0 1 V 0 H 0.4 A 0.35 0.35 0 0 1 0.4 0.7 H 0.1 V 0.5 H 0.4 A 0.15 0.15 0 0 0 0.4 0.2 H 0.2 V 1 H 0"></path>
+        <path stroke="none" fill="black" d="M 0.75 1 H 0.5 L 0.2 0.6 H 0.45 L 0.75 1"></path>
+    </symbol>
+
+    <symbol id="hyphen" width="0.3" height="0.6" viewBox="0 0 0.5 1">
+        <line stroke="black" fill="none" stroke-width="0.2" x1="0" y1="0.5" x2="0.5" y2="0.5"></line>
+    </symbol>
+
+    <use href="#r" x="1.10" y="0.4"></use>
+    <use href="#o" x="1.65" y="0.4"></use>
+    <use href="#hyphen" x="2.35" y="0.4"></use>
+    <use href="#o" x="2.75" y="0.4"></use>
+    <use href="#r" x="3.45" y="0.4"></use>
+    <use href="#o" x="4.00" y="0.4"></use>
+    <use href="#hyphen" x="4.70" y="0.4"></use>
+    <use href="#p" x="5.10" y="0.4"></use>
+    <use href="#o" x="5.65" y="0.4"></use>
+    <use href="#n" x="6.35" y="0.4"></use>
+    <use href="#o" x="6.90" y="0.4"></use>
+    <use href="#r" x="7.60" y="0.4"></use>
+    <use href="#o" x="8.15" y="0.4"></use>
+    <use href="#hyphen" x="8.85" y="0.4"></use>
+    <use href="#p" x="9.25" y="0.4"></use>
+    <use href="#o" x="9.80" y="0.4"></use>
+    <use href="#r" x="10.50" y="0.4"></use>
+    <use href="#o" x="11.05" y="0.4"></use>
+    <use href="#n" x="11.75" y="0.4"></use>
 </svg>
