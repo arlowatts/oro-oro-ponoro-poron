@@ -1,8 +1,5 @@
 title: Oro-oro-ponoro-poron
 
-author:
-  name: Arlo Watts
+theme: minima
 
 permalink: /:path/:basename/
-
-theme: minima
