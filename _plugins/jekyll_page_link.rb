@@ -3,11 +3,11 @@ module Jekyll
 
         def initialize(tag_name, text, tokens)
             super
-            @text = text.strip
+            @text = text
         end
 
         def render(context)
-            "[#{@text}](#{@text})"
+            "[#{@text}](arlowatts.com)"
         end
     end
 end
