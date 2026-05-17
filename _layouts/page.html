@@ -11,16 +11,16 @@ layout: base
                 {%- assign linked_page = site.pages | where: "url", url | first -%}
                 {%- if linked_page -%}
                     {%- if forloop.last -%}
-                        <li>{{- linked_page.title | escape -}}</li>
+                        <li>{{- linked_page.title | markdownify -}}</li>
                     {%- else -%}
-                        <li><span><a href="{{ linked_page.url | relative_url }}">{{- linked_page.title | escape -}}</a></span></li>
+                        <li><span><a href="{{ linked_page.url | relative_url }}">{{- linked_page.title | markdownify -}}</a></span></li>
                     {%- endif -%}
                 {%- endif -%}
             {%- endfor -%}
         </ol>
     </nav>
     <header class="post-header">
-        <h1 class="post-title">{{- page.title | escape -}}</h1>
+        <h1 class="post-title">{{- page.title | markdownify -}}</h1>
     </header>
     <div class="post-content">
         {%- assign chunks = content | split: "[[" -%}
@@ -31,7 +31,7 @@ layout: base
                 {%- assign chunk_parts = chunk | split: "]]" -%}
                 {%- assign link = chunk_parts | first | split: ":" -%}
                 {%- assign remaining_content = chunk_parts | last -%}
-                {%- assign link_text = link | first -%}
+                {%- assign link_text = link | first | normalize_whitespace -%}
                 {%- assign link_title = link | last | normalize_whitespace -%}
                 {%- assign linked_page = site.pages | where: "title", link_title | first -%}
                 {%- if linked_page -%}

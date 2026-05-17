@@ -12,7 +12,7 @@ layout: base
                 {%- assign chunk_parts = chunk | split: "]]" -%}
                 {%- assign link = chunk_parts | first | split: ":" -%}
                 {%- assign remaining_content = chunk_parts | last -%}
-                {%- assign link_text = link | first -%}
+                {%- assign link_text = link | first | normalize_whitespace -%}
                 {%- assign link_title = link | last | normalize_whitespace -%}
                 {%- assign linked_page = site.pages | where: "title", link_title | first -%}
                 {%- if linked_page -%}
