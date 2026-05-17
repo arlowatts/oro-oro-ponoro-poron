@@ -20,11 +20,13 @@
     }
 }
 
+/*
 .site-nav {
     position: inherit !important;
     border: inherit !important;
     line-height: var(--site-header-height);
 }
+*/
 
 .crumbs {
     & ol {
