@@ -9,7 +9,7 @@ module Jekyll
         def render(context)
             site = context.registers[:site]
             pages = site.pages.select {|page| page.data["title"] == @text}
-            "[#{@text}](#{pages.first.permalink})"
+            "[#{@text}](#{pages.first.url})"
         end
 
         Liquid::Template.register_tag("page_link", Jekyll::PageLink)
