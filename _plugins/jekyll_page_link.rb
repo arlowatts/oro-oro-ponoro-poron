@@ -9,7 +9,8 @@ module Jekyll
         def render(context)
             "[#{@text}](arlowatts.com)"
         end
+
+        Liquid::Template.register_tag("page_link", Jekyll::PageLink)
+
     end
 end
-
-Liquid::Template.register_tag("page_link", Jekyll::PageLink)
