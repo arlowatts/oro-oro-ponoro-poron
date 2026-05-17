@@ -12,7 +12,7 @@ module Jekyll
             "[#{@text}](#{site.baseurl}#{pages.first.url})"
         end
 
-        Liquid::Template.register_tag("page_link", Jekyll::PageLink)
+        Liquid::Template.register_tag("a", Jekyll::PageLink)
 
     end
 end

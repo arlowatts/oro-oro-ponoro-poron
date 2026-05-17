@@ -75,7 +75,7 @@ background:
 
 ---
 
-Babanak the Great has ruled the {% page_link Bekebel %} clan with an iron fist for 59 years. He is proud, arrogant, and easily
+Babanak the Great has ruled the {% a Bekebel %} clan with an iron fist for 59 years. He is proud, arrogant, and easily
 angered---qualities which temper his popularity. As a natural-born sorcerer, he has impressive magical powers and longer
 life than most. Yet despite his fiery personality, the Bekebel clan has grown larger and more powerful than ever under
 his rule.
