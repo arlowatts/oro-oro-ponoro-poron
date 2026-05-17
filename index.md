@@ -14,18 +14,19 @@ trails cut into the stone.
 
 Many types of flying reptiles inhabit Oro-oro-ponoro-poron, collectively known as dragons. Small and sly wyverns lurk in
 the thick undergrowth while fire-breathing dragons make their lairs near flowing lava. Fierce drakes perch on offshore
-pillars of stone, and a single shadow dragon known as [[Ice]] keeps themself well hidden from those who seek them. Other
-well-known dragons include [[Tuvdak the Magnificent]], [[Mosha the All-knowing]], and [[Dagana the Azure Death]].
+pillars of stone, and a single shadow dragon known as {% page_link Ice %} keeps themself well hidden from those who seek
+them. Other well-known dragons include {% page_link Tuvdak the Magnificent %}, {% page_link Mosha the All-knowing %},
+and {% page_link Dagana the Azure Death %}.
 
 ## Kobolds
 
 In addition to its draconic inhabitants, Oro-oro-ponoro-poron is home to the many kobold clans who worship them. The
 kobolds thrive in the island's warm environment and work industriously to ensure their clan's success, often in direct
 competition with one another. Nearly all clans worship one or more dragons, and a clan's draconic overlord often
-determines the nature of its alliances. Some notable clans are the [[Bekebel]], [[Lukurru]], [[Dagana]], and [[Perexel]]
-clans.
+determines the nature of its alliances. Some notable clans are the {% page_link Bekebel %}, {% page_link Lukurru %}, {%
+page_link Dagana %}, and {% page_link Perexel %} clans.
 
-Not all kobolds worship dragons, however. The independent city of [[Krakakanamar]] acts as an anchor for
+Not all kobolds worship dragons, however. The independent city of {% page_link Krakakanamar %} acts as an anchor for
 Oro-oro-ponoro-poron's nomadic families and, in recent years, has risen from a minor settlement to a major shipping hub.
 
 ## The Caldera
