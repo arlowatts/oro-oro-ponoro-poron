@@ -3,7 +3,7 @@ module Jekyll
 
         def initialize(tag_name, text, tokens)
             super
-            @text = text
+            @text = text.strip
         end
 
         def render(context)
