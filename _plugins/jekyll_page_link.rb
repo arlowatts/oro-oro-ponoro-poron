@@ -7,8 +7,9 @@ module Jekyll
         end
 
         def render(context)
-            pages = context.registers[:site].pages.select {|page| page.title == @text}
-            "[#{@text}](#{pages.first.url})"
+            site = context.registers[:site]
+            pages = site.pages.select {|page| page.registers[:data]["title"] == @text}
+            "[#{@text}](#{pages.first.path})"
         end
 
         Liquid::Template.register_tag("page_link", Jekyll::PageLink)
