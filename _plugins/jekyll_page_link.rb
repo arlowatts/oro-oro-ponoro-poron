@@ -7,7 +7,7 @@ module Jekyll
         end
 
         def render(context)
-            pages = @site.pages.select {|page| page.title == @text}
+            pages = context.registers[:site].pages.select {|page| page.title == @text}
             "[#{@text}](#{pages.first.url})"
         end
 
