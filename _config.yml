@@ -4,3 +4,5 @@ author:
   name: Arlo Watts
 
 permalink: /:path/:basename/
+
+theme: minima
