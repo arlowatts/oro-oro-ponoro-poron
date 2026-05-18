@@ -10,13 +10,13 @@ module Jekyll
             site = context.registers[:site]
             page = context.registers[:page]
 
-            match = site.pages.find {|element| element.data.title == @text}
+            match = site.pages.find {|element| element.data[:title] == @text}
 
             unless match
                 raise "broken link \"#{@text}\" in #{page.url}"
             end
 
-            if page.url.include?(match.url)
+            if page[:url].include?(match.url)
                 raise "parent link \"#{@text}\" in #{page.url}"
             end
 
