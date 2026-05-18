@@ -1,45 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12.2 1">
-    <path stroke="none" fill="black" d="M 0.88341961 0.82091961 A 0.500 0.500 0 0 1 0.17908039 0.11658039 A 0.500 0.500 0 1 0 0.88341961 0.82091961"></path>
-    <path stroke="none" fill="black" d="M 0.79456718 0.73206718 A 0.375 0.375 0 1 0 0.26793282 0.20543282 A 0.375 0.375 0 0 1 0.79456718 0.73206718"></path>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.48 1">
+    <defs>
+        <path   id="n" stroke="none"  fill="black" d="M 0 1 V 0 H 0.2 L 0.55 0.6 V 0 H 0.75 V 1 H 0.55 L 0.2 0.4 V 1 H 0"></path>
+        <circle id="o" stroke="black" fill="none"  stroke-width="0.2" cx="0.5" cy="0.5" r="0.4"></circle>
+        <path   id="p" stroke="none"  fill="black" d="M 0 1 V 0 H 0.4 A 0.35 0.35 0 0 1 0.4 0.7 H 0.1 V 0.5 H 0.4 A 0.15 0.15 0 0 0 0.4 0.2 H 0.2 V 1 H 0"></path>
+        <path   id="r" stroke="none"  fill="black" d="M 0 1 V 0 H 0.4 A 0.35 0.35 0 0 1 0.4 0.7 H 0.1 V 0.5 H 0.4 A 0.15 0.15 0 0 0 0.4 0.2 H 0.2 V 1 H 0 M 0.75 1 H 0.5 L 0.2 0.6 H 0.45 L 0.75 1"></path>
+        <line   id="-" stroke="black" fill="none"  stroke-width="0.2" x1="0" y1="0.5" x2="0.5" y2="0.5"></line>
+    </defs>
 
-    <symbol id="n" width="0.45" height="0.6" viewBox="0 0 0.75 1">
-        <path stroke="none" fill="black" d="M 0 1 V 0 H 0.2 L 0.55 0.6 V 0 H 0.75 V 1 H 0.55 L 0.2 0.4 V 1 H 0"></path>
-    </symbol>
+    <use href="logo.svg"></use>
 
-    <symbol id="o" width="0.6" height="0.6" viewBox="0 0 1 1">
-        <circle stroke="black" fill="none" stroke-width="0.2" r="0.4" cx="0.5" cy="0.5"></circle>
-    </symbol>
-
-    <symbol id="p" width="0.45" height="0.6" viewBox="0 0 0.75 1">
-        <path stroke="none" fill="black" d="M 0 1 V 0 H 0.4 A 0.35 0.35 0 0 1 0.4 0.7 H 0.1 V 0.5 H 0.4 A 0.15 0.15 0 0 0 0.4 0.2 H 0.2 V 1 H 0"></path>
-    </symbol>
-
-    <symbol id="r" width="0.45" height="0.6" viewBox="0 0 0.75 1">
-        <path stroke="none" fill="black" d="M 0 1 V 0 H 0.4 A 0.35 0.35 0 0 1 0.4 0.7 H 0.1 V 0.5 H 0.4 A 0.15 0.15 0 0 0 0.4 0.2 H 0.2 V 1 H 0"></path>
-        <path stroke="none" fill="black" d="M 0.75 1 H 0.5 L 0.2 0.6 H 0.45 L 0.75 1"></path>
-    </symbol>
-
-    <symbol id="hyphen" width="0.3" height="0.6" viewBox="0 0 0.5 1">
-        <line stroke="black" fill="none" stroke-width="0.2" x1="0" y1="0.5" x2="0.5" y2="0.5"></line>
-    </symbol>
-
-    <use href="#r" x="1.10" y="0.4"></use>
-    <use href="#o" x="1.65" y="0.4"></use>
-    <use href="#hyphen" x="2.35" y="0.4"></use>
-    <use href="#o" x="2.75" y="0.4"></use>
-    <use href="#r" x="3.45" y="0.4"></use>
-    <use href="#o" x="4.00" y="0.4"></use>
-    <use href="#hyphen" x="4.70" y="0.4"></use>
-    <use href="#p" x="5.10" y="0.4"></use>
-    <use href="#o" x="5.65" y="0.4"></use>
-    <use href="#n" x="6.35" y="0.4"></use>
-    <use href="#o" x="6.90" y="0.4"></use>
-    <use href="#r" x="7.60" y="0.4"></use>
-    <use href="#o" x="8.15" y="0.4"></use>
-    <use href="#hyphen" x="8.85" y="0.4"></use>
-    <use href="#p" x="9.25" y="0.4"></use>
-    <use href="#o" x="9.80" y="0.4"></use>
-    <use href="#r" x="10.50" y="0.4"></use>
-    <use href="#o" x="11.05" y="0.4"></use>
-    <use href="#n" x="11.75" y="0.4"></use>
+    <g transform="translate(1.1, 0.4) scale(0.6)">
+        <use href="#r" transform="translate( 0.00)"></use>
+        <use href="#o" transform="translate( 0.85)"></use>
+        <use href="#-" transform="translate( 1.95)"></use>
+        <use href="#o" transform="translate( 2.55)"></use>
+        <use href="#r" transform="translate( 3.65)"></use>
+        <use href="#o" transform="translate( 4.50)"></use>
+        <use href="#-" transform="translate( 5.60)"></use>
+        <use href="#p" transform="translate( 6.20)"></use>
+        <use href="#o" transform="translate( 7.05)"></use>
+        <use href="#n" transform="translate( 8.15)"></use>
+        <use href="#o" transform="translate( 9.00)"></use>
+        <use href="#r" transform="translate(10.10)"></use>
+        <use href="#o" transform="translate(10.95)"></use>
+        <use href="#-" transform="translate(12.05)"></use>
+        <use href="#p" transform="translate(12.65)"></use>
+        <use href="#o" transform="translate(13.50)"></use>
+        <use href="#r" transform="translate(14.60)"></use>
+        <use href="#o" transform="translate(15.45)"></use>
+        <use href="#n" transform="translate(16.55)"></use>
+    </g>
 </svg>
