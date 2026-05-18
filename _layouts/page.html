@@ -4,16 +4,18 @@ layout: base
 
 <nav class="crumbs">
     <ol>
-        {%- assign url_parts = page.url | split: "/" -%}
-        {%- for item in url_parts -%}
-            {%- assign url = url_parts | slice: 0, forloop.index | join: "/" | append: "/" -%}
-            {%- assign linked_page = site.pages | where: "url", url | first -%}
-            {%- if linked_page -%}
-                {%- assign linked_page_title = linked_page.title | markdownify | strip -%}
+        {%- assign url_array = page.url | split: "/" -%}
+        <p>{{- url_array -}}</p>
+        {%- for item in url_array -%}
+            {%- assign url = url_array | slice: 0, forloop.index | join: "/" | append: "/" -%}
+            <p>{{- url -}}</p>
+            {%- assign match = site.pages | find: "url", url -%}
+            {%- if match -%}
+                {%- assign title = match.title | markdownify | strip -%}
                 {%- if forloop.last -%}
-                    <li>{{- linked_page_title -}}</li>
+                    <li>{{- title -}}</li>
                 {%- else -%}
-                    <li><span><a href="{{ linked_page.url | relative_url }}">{{- linked_page_title -}}</a></span></li>
+                    <li><span><a href="{{ match.url | relative_url }}">{{- title -}}</a></span></li>
                 {%- endif -%}
             {%- endif -%}
         {%- endfor -%}
