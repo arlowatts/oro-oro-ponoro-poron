@@ -12,6 +12,8 @@ it before Tuvdak destroys the clan in his rage!
 
 As Bekebel's most capable team, you are tasked with tracking down the thief and bringing the gift to Tuvdak.
 
+<!--spoiler-->
+
 ## Overview
 
 Tuvdak's Gift is a lighthearted standalone adventure designed to be completed in one session. The adventure takes place

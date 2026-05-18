@@ -3,3 +3,6 @@ title: Oro-oro-ponoro-poron
 theme: minima
 
 permalink: /:path/:basename/
+
+page_excerpts: true
+excerpt_separator: <!--spoiler-->
