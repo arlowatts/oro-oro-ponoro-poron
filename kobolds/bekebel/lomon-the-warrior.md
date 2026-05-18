@@ -7,8 +7,8 @@ layout: page
 ---
 
 Lomon the Warrior is a battle-scarred fighter who once single-handedly slew a wyvern. She is known and feared for her
-great deeds all across the island. Lomon is the commander of the [[Bekebel Elite Guard]], responsible for the top
-security in [[Bekebel Citadel:Bekebel]].
+great deeds all across the island. Lomon is the commander of the {% a Bekebel Elite Guard %}, responsible for the top
+security in {% a Bekebel Citadel:Bekebel %}.
 
 <!--spoiler-->
 
@@ -22,16 +22,16 @@ has a warm and supportive relationship with her husband.
 
 ## Motives
 
-Lomon's primary drive is to keep the [[Bekebel]] clan safe from the [[Lukurru]] clan, who she still perceives as a
-threat despite more than 30 years of peace. She doesn't often meddle in diplomatic or political affairs, preferring to
-leave such things to the experts. She also hopes to retire soon from her position as commander of the [[Bekebel Elite
-Guard]] in order to develop her personal and social life, but she refuses to do so without assurance that her successor
+Lomon's primary drive is to keep the {% a Bekebel %} clan safe from the {% a Lukurru %} clan, who she still perceives as
+a threat despite more than 30 years of peace. She doesn't often meddle in diplomatic or political affairs, preferring to
+leave such things to the experts. She also hopes to retire soon from her position as commander of the {% a Bekebel Elite
+Guard %} in order to develop her personal and social life, but she refuses to do so without assurance that her successor
 will keep the clan safe to her high standards.
 
 ## Background
 
-Lomon joined the [[Bekebel]] fighting force shortly after the fighting stopped between them and the [[Lukurru]]. She
-initially served as a guard on the walls of the citadel, watching for wyverns, but when her strength and fighting
+Lomon joined the {% a Bekebel %} fighting force shortly after the fighting stopped between them and the {% a Lukurru %}.
+She initially served as a guard on the walls of the citadel, watching for wyverns, but when her strength and fighting
 prowess became clear she was promoted to a scout. As a scout, Lomon led small forces into the jungle to observe the
 borders of the Lukurru territory and to spy on their activities.
 
@@ -40,4 +40,4 @@ jungle, hoping to hide from the wyvern and quietly return to the citadel. But he
 undergrowth, and the wyvern quickly caught up with her. With no escape, Lomon lunged at the wyvern and pierced its
 shoulder with her blade. Wounded but not dissuaded, it jumped onto her and attacked her. The battle that ensued is only
 remembered in Lomon's scars, which serve as proof of her unprecedented accomplishment. Already known in the clan as a
-capable warrior, her victory over the wyvern made her a living legend in [[Bekebel]] history.
+capable warrior, her victory over the wyvern made her a living legend in {% a Bekebel %} history.

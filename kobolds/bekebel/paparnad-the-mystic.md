@@ -9,8 +9,8 @@ layout: page
 Paparnad the Mystic is a young but talented wizard. Since sorcery is common among the Bekebel, few bother to study
 arcane magic. Because of this, Paparnad has made himself useful with a unique set of spells.
 
-He has risen quickly from an independent student of magic to one of [[Babanak the Great]]'s most trusted advisors. His
-talents and ambition are so great that many consider him to be the clear choice as Babanak's successor.
+He has risen quickly from an independent student of magic to one of {% a Babanak the Great %}'s most trusted advisors.
+His talents and ambition are so great that many consider him to be the clear choice as Babanak's successor.
 
 <!--spoiler-->
 
@@ -31,12 +31,12 @@ Elned.
 
 ## Background
 
-The only child of two private tutors, Paparnad received possibly the best early education available in [[Bekebel
-Citadel:Bekebel]]. His parents ensured that he had the resources to pursue his interests from a very young age, enabling
-him to explore niche subjects. In particular, his parents' professions enabled them to borrow or purchase rare books of
-arcane magic for Paparnad to study. He consumed them eagerly and spent hours every day practicing magic spells.
+The only child of two private tutors, Paparnad received possibly the best early education available in {% a Bekebel
+Citadel:Bekebel %}. His parents ensured that he had the resources to pursue his interests from a very young age,
+enabling him to explore niche subjects. In particular, his parents' professions enabled them to borrow or purchase rare
+books of arcane magic for Paparnad to study. He consumed them eagerly and spent hours every day practicing magic spells.
 
 Paparnad showed exceptional talent in magic and, by the time he was 20 years old, his abilities surpassed the teachings
 of the books available to him in the citadel. He purchased a workshop and began developing new arcane spells and
 techniques, quickly gaining the attention of other sorcerers and artificers. Now, five years later, he works with some
-of the best in Bekebel, including [[Babanak the Great]] and [[Elned the Wise]], and has taken two students.
+of the best in Bekebel, including {% a Babanak the Great %} and {% a Elned the Wise %}, and has taken two students.

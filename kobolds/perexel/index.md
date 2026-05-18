@@ -6,9 +6,9 @@ layout: page
 
 ---
 
-Perexel is a small but ancient clan, and is allied with [[Bekebel]]. Unlike most clans on Oro-oro-ponoro-poron, Perexel
-worships no dragon. They live beneath the trees in the jungle around [[Bekebel Citadel:Bekebel]] and are unrivaled in
-their knowledge of the jungle.
+Perexel is a small but ancient clan, and is allied with {% a Bekebel %}. Unlike most clans on Oro-oro-ponoro-poron,
+Perexel worships no dragon. They live beneath the trees in the jungle around {% a Bekebel Citadel:Bekebel %} and are
+unrivaled in their knowledge of the jungle.
 
 <!--spoiler-->
 
@@ -18,7 +18,7 @@ Dreth the Merciless was a powerful druid of the Perexel clan. She lived many cen
 the wyverns of the jungle. Dreth, having great ambition, leveraged her druidic powers to gain influence and control in
 the clan, all but supplanting its leader. But leading the clan was not enough for Dreth the Merciless. She sought
 greater and greater power, never satisfied with what she had. Then, during the longest night of the year, she discovered
-the shadow dragon [[Ice]] resting in a shallow cave. Dreth addressed the dragon.
+the shadow dragon {% a Ice %} resting in a shallow cave. Dreth addressed the dragon.
 
 > Ice, dragon of shadow. I am Dreth the Merciless, the greatest druid to have ever lived. Will you not grant me some of
 > your power?

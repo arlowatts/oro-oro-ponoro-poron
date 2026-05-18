@@ -12,9 +12,9 @@ life than most. Yet despite his fiery personality, the Bekebel clan has grown la
 his rule.
 
 In addition to providing leadership and judgement to the clan, Babanak holds the responsibility of creating many of the
-clan's offerings to [[Tuvdak the Magnificent]]. A very capable metalworker and sorcerer, Babanak often forges and
-enchants Tuvdak's gifts himself. He also works with some of the clan's master blacksmiths to forge unique shapes, and
-[[Elned the Wise]] and [[Paparnad the Mystic]] to weave greater enchantments.
+clan's offerings to {% a Tuvdak the Magnificent %}. A very capable metalworker and sorcerer, Babanak often forges and
+enchants Tuvdak's gifts himself. He also works with some of the clan's master blacksmiths to forge unique shapes, and {%
+a Elned the Wise %} and {% a Paparnad the Mystic %} to weave greater enchantments.
 
 <!--spoiler-->
 
@@ -34,13 +34,13 @@ to great lengths to attain them. He is also motivated by his desire for power. T
 much of what Babanak does as the leader of the Bekebel clan is engineered to further elevate his standing. Third,
 Babanak seeks security for his clan, placing its safety above his own. He works tirelessly to anticipate potential
 threats to the Bekebel and to take preventative measures against them. Finally, Babanak acts in accordance with his
-mostly private relationship with [[Tantan the Inventor]]. Many of Babanak's seemingly uncharacteristic decisions can be
-explained by his consideration for Tantan.
+mostly private relationship with {% a Tantan the Inventor %}. Many of Babanak's seemingly uncharacteristic decisions can
+be explained by his consideration for Tantan.
 
 ## Background
 
 Babanak was born to Gava the Supreme, the ruler of the Bekebel clan, and Nort the Pyromancer, the greatest sorcerer in
-the clan's history. Nort died in battle defending the clan from the [[Lukurru]] before Babanak was born, leaving him
+the clan's history. Nort died in battle defending the clan from the {% a Lukurru %} before Babanak was born, leaving him
 with a fractured childhood. Many suitors offered to help Gava raise her son while she ruled the clan, but she spurned
 them and chose to instead take Babanak's upbringing into her own hands.
 
@@ -77,6 +77,6 @@ and continued their normal duties, seeing each other only in the time they could
 seers if the vision had changed, but always the answer was the same.
 
 Over time Babanak forgot his old wants and became increasingly invested in the clan's success and safety. He spends long
-days working with engineers, craftspeople, and miners to enlarge [[Bekebel Citadel:Bekebel]]'s borders and secure its
-walls. Now Babanak rules the Bekebel clan with strength and pride, and the other clans on Oro-oro-ponoro-poron respect
-and fear his power.
+days working with engineers, craftspeople, and miners to enlarge {% a Bekebel Citadel:Bekebel %}'s borders and secure
+its walls. Now Babanak rules the Bekebel clan with strength and pride, and the other clans on Oro-oro-ponoro-poron
+respect and fear his power.
