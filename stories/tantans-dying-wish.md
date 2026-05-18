@@ -16,6 +16,8 @@ Semeret the Motherly %} and her retinue will represent the {% a Dagana %} clan, 
 attend on behalf of the {% a Lukurru %}. The tense history between the three clans sets the stage for plots, schemes,
 and machinations---can you uncover them all before it's too late?
 
+<!--spoiler-->
+
 ## Overview
 
 Nestled between pillars of rock near the shores of Oro-oro-ponoro-poron, a scheme has been brewing in the mind of {% a
