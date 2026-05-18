@@ -15,5 +15,5 @@ adversity. In her, many see the spirit of Dagana's past.
 ## Motives
 
 Takala is committed to seeing that past return and has been scheming for many years to replace {% a Dagana the Azure
-Death %} with {% a Kormak the Havoc Raiser %} when Dagana dies. Kormak is an unstoppable killer and thrives on victory
-in battle, much like Dagana in her youth.
+Death %} with Kormak the Havoc Raiser when Dagana dies. Kormak is an unstoppable killer and thrives on victory in
+battle, much like Dagana in her youth.

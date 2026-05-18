@@ -7,8 +7,8 @@ layout: page
 ---
 
 Perexel is a small but ancient clan, and is allied with {% a Bekebel %}. Unlike most clans on Oro-oro-ponoro-poron,
-Perexel worships no dragon. They live beneath the trees in the jungle around {% a Bekebel Citadel:Bekebel %} and are
-unrivaled in their knowledge of the jungle.
+Perexel worships no dragon. They live beneath the trees in the jungle around Bekebel Citadel and are unrivaled in their
+knowledge of the jungle.
 
 <!--spoiler-->
 

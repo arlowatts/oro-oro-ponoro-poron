@@ -31,10 +31,10 @@ Elned.
 
 ## Background
 
-The only child of two private tutors, Paparnad received possibly the best early education available in {% a Bekebel
-Citadel:Bekebel %}. His parents ensured that he had the resources to pursue his interests from a very young age,
-enabling him to explore niche subjects. In particular, his parents' professions enabled them to borrow or purchase rare
-books of arcane magic for Paparnad to study. He consumed them eagerly and spent hours every day practicing magic spells.
+The only child of two private tutors, Paparnad received possibly the best early education available in Bekebel Citadel.
+His parents ensured that he had the resources to pursue his interests from a very young age, enabling him to explore
+niche subjects. In particular, his parents' professions enabled them to borrow or purchase rare books of arcane magic
+for Paparnad to study. He consumed them eagerly and spent hours every day practicing magic spells.
 
 Paparnad showed exceptional talent in magic and, by the time he was 20 years old, his abilities surpassed the teachings
 of the books available to him in the citadel. He purchased a workshop and began developing new arcane spells and

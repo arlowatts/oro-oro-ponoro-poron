@@ -77,6 +77,6 @@ and continued their normal duties, seeing each other only in the time they could
 seers if the vision had changed, but always the answer was the same.
 
 Over time Babanak forgot his old wants and became increasingly invested in the clan's success and safety. He spends long
-days working with engineers, craftspeople, and miners to enlarge {% a Bekebel Citadel:Bekebel %}'s borders and secure
-its walls. Now Babanak rules the Bekebel clan with strength and pride, and the other clans on Oro-oro-ponoro-poron
-respect and fear his power.
+days working with engineers, craftspeople, and miners to enlarge Bekebel Citadel's borders and secure its walls. Now
+Babanak rules the Bekebel clan with strength and pride, and the other clans on Oro-oro-ponoro-poron respect and fear his
+power.

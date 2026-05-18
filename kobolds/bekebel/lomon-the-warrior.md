@@ -7,8 +7,8 @@ layout: page
 ---
 
 Lomon the Warrior is a battle-scarred fighter who once single-handedly slew a wyvern. She is known and feared for her
-great deeds all across the island. Lomon is the commander of the {% a Bekebel Elite Guard %}, responsible for the top
-security in {% a Bekebel Citadel:Bekebel %}.
+great deeds all across the island. Lomon is the commander of the Bekebel Elite Guard, responsible for the top security
+in Bekebel Citadel.
 
 <!--spoiler-->
 
@@ -24,8 +24,8 @@ has a warm and supportive relationship with her husband.
 
 Lomon's primary drive is to keep the {% a Bekebel %} clan safe from the {% a Lukurru %} clan, who she still perceives as
 a threat despite more than 30 years of peace. She doesn't often meddle in diplomatic or political affairs, preferring to
-leave such things to the experts. She also hopes to retire soon from her position as commander of the {% a Bekebel Elite
-Guard %} in order to develop her personal and social life, but she refuses to do so without assurance that her successor
+leave such things to the experts. She also hopes to retire soon from her position as commander of the Bekebel Elite
+Guard in order to develop her personal and social life, but she refuses to do so without assurance that her successor
 will keep the clan safe to her high standards.
 
 ## Background

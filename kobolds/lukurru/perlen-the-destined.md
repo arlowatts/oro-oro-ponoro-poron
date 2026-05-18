@@ -11,8 +11,8 @@ shameless, and a capable warrior. Perlen is much despised by the clan and many s
 unfit to rule---even his mother Irvini would go to great lengths to see that he does not succeed her. However, barring
 exile from the clan, there is no accommodation within Lukurru law to prevent a rightful heir from taking leadership.
 
-Perlen leads a gang of ruffians in {% a Woodrock:Lukurru %} which he incites to many kinds of trouble, including
-attacking or intimidating kobolds of the {% a Bekebel %} clan wherever he can find them.
+Perlen leads a gang of ruffians in Woodrock which he incites to many kinds of trouble, including attacking or
+intimidating kobolds of the {% a Bekebel %} clan wherever he can find them.
 
 <!--spoiler-->
 
