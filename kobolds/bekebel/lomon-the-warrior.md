@@ -22,8 +22,8 @@ has a warm and supportive relationship with her husband.
 
 ## Motives
 
-Lomon's primary drive is to keep the {% a Bekebel %} clan safe from the {% a Lukurru %} clan, who she still perceives as
-a threat despite more than 30 years of peace. She doesn't often meddle in diplomatic or political affairs, preferring to
+Lomon's primary drive is to keep the Bekebel clan safe from the {% a Lukurru %} clan, who she still perceives as a
+threat despite more than 30 years of peace. She doesn't often meddle in diplomatic or political affairs, preferring to
 leave such things to the experts. She also hopes to retire soon from her position as commander of the Bekebel Elite
 Guard in order to develop her personal and social life, but she refuses to do so without assurance that her successor
 will keep the clan safe to her high standards.
