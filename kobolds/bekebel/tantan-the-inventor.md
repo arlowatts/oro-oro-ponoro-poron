@@ -10,9 +10,9 @@ Tantan the Inventor is a well-known and well-respected artisan of the Bekebel cl
 mechanical tools, and her abilities far surpassed those of other artisans in the clan when she still operated her own
 shop. Now retired, she only works occasionally with other craftspeople to advise and appraise.
 
-Tantan is also known for her relationship with {% a Babanak the Great %}, the leader of the {% a Bekebel %} clan. Though
-they rarely interact in public, rumor has it that the two of them have been seeing each other since before Babanak
-became the ruler of the clan. Indeed, since then, neither of them has ever married.
+Tantan is also known for her relationship with {% a Babanak the Great %}, the leader of the Bekebel clan. Though they
+rarely interact in public, rumor has it that the two of them have been seeing each other since before Babanak became the
+ruler of the clan. Indeed, since then, neither of them has ever married.
 
 <!--spoiler-->
 
