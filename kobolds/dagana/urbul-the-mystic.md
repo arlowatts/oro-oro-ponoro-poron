@@ -2,13 +2,7 @@
 
 title: Urbul the Mystic
 
-layout: character
-
-personality:
-
-motives:
-
-background:
+layout: page
 
 ---
 

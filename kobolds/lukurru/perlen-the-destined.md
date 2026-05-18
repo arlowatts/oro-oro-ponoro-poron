@@ -2,21 +2,7 @@
 
 title: Perlen the Destined
 
-layout: character
-
-personality:
-
-    'Perlen thinks very highly of himself and constantly brags to others.'
-
-motives:
-
-    'Perlen assumes that he will one day become the leader of the Lukurru, and that nobody has any power over him.
-    Perlen loves to exert influence over others and cause disruptions.'
-
-background:
-
-    'Raised as the son of the leader of the Lukurru clan, Perlen has used his status to bully his peers and to get away
-    with vandalism.'
+layout: page
 
 ---
 
@@ -27,3 +13,19 @@ the clan, there is no accommodation within Lukurru law to prevent a rightful hei
 
 Perlen leads a gang of ruffians in [[Woodrock:Lukurru]] which he incites to many kinds of trouble, including attacking
 or intimidating kobolds of the [[Bekebel]] clan wherever he can find them.
+
+<!--spoiler-->
+
+## Personality
+
+Perlen thinks very highly of himself and constantly brags to others.
+
+## Motives
+
+Perlen assumes that he will one day become the leader of the Lukurru, and that nobody has any power over him. Perlen
+loves to exert influence over others and cause disruptions.
+
+## Background
+
+Raised as the son of the leader of the Lukurru clan, Perlen has used his status to bully his peers and to get away with
+vandalism.
