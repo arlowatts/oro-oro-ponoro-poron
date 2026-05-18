@@ -13,11 +13,11 @@ module Jekyll
             match = site.pages.find {|page| page.data["title"] == @text}
 
             unless match
-                raise "broken link \"#{@text}\" in #{url}"
+                raise "broken link \"#{@text}\""
             end
 
             if url.include?(match.url)
-                raise "parent link \"#{@text}\" in #{url}"
+                raise "parent link \"#{@text}\""
             end
 
             "[#{@text}](#{site.baseurl}#{match.url})"
