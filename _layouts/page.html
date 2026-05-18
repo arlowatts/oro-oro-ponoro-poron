@@ -5,18 +5,15 @@ layout: base
 <nav class="crumbs">
     <ol>
         {%- assign url_array = page.url | split: "/" -%}
-        <p>{{- url_array -}}</p>
         {%- for item in url_array -%}
-            <p>{{- item -}}</p><p>{{- forloop.index -}}</p>
             {%- assign url = url_array | slice: 0, forloop.index | join: "/" | append: "/" -%}
-            <p>{{- url -}}</p>
             {%- assign match = site.pages | find: "url", url -%}
             {%- if match -%}
                 {%- assign title = match.title | markdownify | strip -%}
                 {%- if forloop.last -%}
-<!--                    <li>{{- title -}}</li>-->
+                    <li>{{- title -}}</li>
                 {%- else -%}
-<!--                    <li><span><a href="{{ match.url | relative_url }}">{{- title -}}</a></span></li>-->
+                    <li><span><a href="{{ match.url | relative_url }}">{{- title -}}</a></span></li>
                 {%- endif -%}
             {%- endif -%}
         {%- endfor -%}
