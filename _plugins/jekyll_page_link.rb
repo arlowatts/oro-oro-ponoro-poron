@@ -8,16 +8,16 @@ module Jekyll
 
         def render(context)
             site = context.registers[:site]
-            page = context.registers[:page]
+            url = context.registers[:page]["url"]
 
-            match = site.pages.find {|element| element.data["title"] == @text}
+            match = site.pages.find {|page| page.data["title"] == @text}
 
             unless match
-                raise "broken link \"#{@text}\" in #{page[:url]}"
+                raise "broken link \"#{@text}\" in #{url}"
             end
 
-            if page[:url].include?(match.url)
-                raise "parent link \"#{@text}\" in #{page[:url]}"
+            if url.include?(match.url)
+                raise "parent link \"#{@text}\" in #{url}"
             end
 
             "[#{@text}](#{site.baseurl}#{match.url})"
