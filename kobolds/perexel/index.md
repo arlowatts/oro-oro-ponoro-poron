@@ -10,7 +10,7 @@ Perexel is a small but ancient clan, and is allied with [[Bekebel]]. Unlike most
 worships no dragon. They live beneath the trees in the jungle around [[Bekebel Citadel:Bekebel]] and are unrivaled in
 their knowledge of the jungle.
 
-<div class="spoiler" markdown="block">
+<!--spoiler-->
 
 ## The Legend of Dreth the Merciless
 
@@ -75,5 +75,3 @@ to worship, afraid that they may be angry with the clan for Dreth's disloyalty. 
 or any other shadow dragon, the Perexel clan did not return to their village. To this day, they live under the stars and
 keep only those belongings which they can carry. They worship no dragons and serve no master, recalling the devastation
 of centuries past.
-
-</div>
