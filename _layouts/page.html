@@ -24,6 +24,10 @@ layout: base
     <h1 class="post-title">{{- page.title | markdownify | strip -}}</h1>
 </header>
 
-{{- page.excerpt -}}
+<div class="excerpt">
+    {{- page.excerpt -}}
+</div>
 
-{{- content -}}
+<div class="spoiler">
+    {{- content -}}
+</div>
