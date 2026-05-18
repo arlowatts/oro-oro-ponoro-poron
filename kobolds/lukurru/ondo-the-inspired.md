@@ -19,9 +19,9 @@ Ondo is soft-spoken and will do anything to avoid an argument or a fight.
 ## Motives
 
 Having witnessed the tragedies of war first-hand, Ondo hopes to create a world without conflict in which the {% a
-Bekebel %}, {% a Lukurru %}, and {% a Dagana %} clans can coexist in peace.
+Bekebel %}, Lukurru, and {% a Dagana %} clans can coexist in peace.
 
 ## Background
 
-Ondo fought as a foot soldier during the tail end of the war between the {% a Bekebel %} and the {% a Lukurru %}, and
-only became a general later. Now he drills the Lukurru soldiers and practices maneuvers in the jungle.
+Ondo fought as a foot soldier during the tail end of the war between the {% a Bekebel %} and the Lukurru, and only
+became a general later. Now he drills the Lukurru soldiers and practices maneuvers in the jungle.
