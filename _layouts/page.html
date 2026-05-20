@@ -13,7 +13,7 @@ layout: base
                 {%- if forloop.last -%}
                     <li>{{- title -}}</li>
                 {%- else -%}
-                    <li><span><a href="{{ match.url | relative_url }}">{{- title -}}</a></span></li>
+                    <li><span><a href="{{- match.url | relative_url -}}">{{- title -}}</a></span></li>
                 {%- endif -%}
             {%- endif -%}
         {%- endfor -%}
