@@ -56,12 +56,12 @@ traditional rites.
 >
 > Our *lives* and our *free*dom for*sworn*
 >
-> This *e*vil enc*roa*ches
+> An *e*vil enc*roa*ches
 >
-> Its *fu*ture app*roa*ches
+> The *fu*ture app*roa*ches
 >
 > Barring *ac*tion, our *kin* we will *mourn*
-
+>
 > Divi*na*tion, you *know*, is my *name*
 >
 > But my *vis*ion, of *late*, has gone *lame*
@@ -71,7 +71,7 @@ traditional rites.
 > I *dread* inter*fer*ence
 >
 > Who's *mag*ical *skills* are the *same*
-
+>
 > An *al*ly of *yours* I was *not*
 >
 > And *though* our long *past* has been *frought*
@@ -80,4 +80,4 @@ traditional rites.
 >
 > That *we* may un*bitt*er
 >
-> And *joint*ly de*fend* what we've *got*
+> Lest this *dan*ger em*bigg*en un*fought*
