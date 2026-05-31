@@ -29,10 +29,11 @@ grew up in safety within Krakakanamar's high walls---don't understand their gran
 themselves from the older generation, they gleefully partake in activities their parents proscribe.
 
 Though the poachers have so far kept their existence a secret from the three clans on Oro-oro-ponoro-poron, their
-presence is felt among the wyverns. Even {% a Mosha the All-knowing %}, famous for her powers of precise and salient
-divination, only has vague forebodings of impending doom. This rare privacy is achieved by the owner of Krakakanamar's
-black market: Gizzix the Gilded, a cruel crime boss and a powerful mage. His spells shield the poachers from detection
-by magical means, allowing their deadly outings to extend deep into Lukurru territory.
+presence is felt by some of the nomadic clans---but not by the wyverns. Even {% a Mosha the All-knowing %}, famous for
+her powers of precise and salient divination, only has vague forebodings of impending doom. This rare privacy is
+achieved by the owner of Krakakanamar's black market: Gizzix the Gilded, a cruel crime boss and a powerful mage. His
+spells shield the poachers from detection by magical means, allowing their deadly outings to extend deep into Lukurru
+territory.
 
 But Mosha is well-versed in dreams and visions, and knows to trust her intuition. Supposing magical interference, she
 has leapt to a worrying conclusion: that a rogue seer internal to the Lukurru clan is acting against her. Haunted by
@@ -44,4 +45,39 @@ upon a small stone and delivered it to Bekebel Citadel. The stone has memorized 
 intelligent enough to selectively deliver it only to Bekebel's leaders---{% a Babanak the Great %} and {% a Elned the
 Wise %}---or to Bekebel's Elite Guard.
 
+Simultaneously, a messenger arrives at the citadel from one of the nomadic clans. A hunting party was found slaughtered
+in the jungle, bearing wounds corresponding to weapons never used by any nomadic clans---ballista bolts and harpoons,
+apparently shot with great force. Their corpses were found looted and unburied, in gross outrage of the nomads'
+traditional rites.
+
 ## The Message
+
+> A *cage* in a *ci*ty just *born*
+>
+> Our *lives* and our *free*dom for*sworn*
+>
+> This *e*vil enc*roa*ches
+>
+> Its *fu*ture app*roa*ches
+>
+> Barring *ac*tion, our *kin* we will *mourn*
+
+> Divi*na*tion, you *know*, is my *name*
+>
+> But my *vis*ion, of *late*, has gone *lame*
+>
+> My *dreams* lack co*her*ence
+>
+> I *dread* inter*fer*ence
+>
+> Who's *mag*ical *skills* are the *same*
+
+> An *al*ly of *yours* I was *not*
+>
+> And *though* our long *past* has been *frought*
+>
+> I *beg* you con*sid*er
+>
+> That *we* may un*bitt*er
+>
+> And *joint*ly de*fend* what we've *got*
