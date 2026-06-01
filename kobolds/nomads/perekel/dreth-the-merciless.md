@@ -10,8 +10,8 @@ Dreth the Merciless is a mythological figure on Oro-oro-ponoro-poron, depicted a
 story, passed down in countless forms by oral tradition, describes the terrible consequences of {% a Ice %}'s curse brought
 about by their own greed.
 
-The story was recorded and published by a historian in the {% a Bekebel %} clan, as told to them by an elder of the {% a
-Perekel %} clan. This version is duplicated below.
+The story was recorded and published by a historian in the {% a Bekebel %} clan, as told to them by an elder of the
+Perekel clan. This version is duplicated below.
 
 ## Dreth the Merciless and Ice's Curse
 
