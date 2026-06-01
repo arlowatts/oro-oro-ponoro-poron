@@ -12,7 +12,7 @@ however, are more than ready to make peace with their neighbors.
 
 But a new threat is emerging. From the dark cellars of {% a Krakakanamar %}, an evil force is quietly eroding the
 Lukurru clan's security. Will you break your treaty and take this opportunity to strike down your ancient foes? Or will
-you join forces with your newfound allies to save Oro-oro-ponoro-poron from a dark and dangerous future?
+you join forces with your newfound allies to save Oro-oro-ponoro-poron from a grim and unfriendly future?
 
 <!--spoiler-->
 
@@ -21,63 +21,63 @@ you join forces with your newfound allies to save Oro-oro-ponoro-poron from a da
 A secret organization of wyvern poachers has formed in {% a Krakakanamar %}'s underground. Its members maraud the jungle
 equipped with nets and powerful harpoon launchers, killing or capturing any wyverns they encounter. A black market has
 emerged to distribute the poachers' yield, and wyvern parts have become prized possessions. Skin is sold as leather;
-claws and scales as charms; skulls as costly decor; and everything else is medicinal or magical. Live wyverns are kept
-in cages and tortured, or forced to fight for entertainment.
+claws and scales as charms; skulls as costly decor; and everything else for magic and pseudomedicine. Live wyverns are
+kept in cages and tortured, or forced to fight for entertainment.
 
 Due to Krakakanamar's proud independence, keeping dragons or dragon parts is a social taboo. But the city's youths---who
 grew up in safety within Krakakanamar's high walls---don't understand their grandparents' fears. Eager to differentiate
 themselves from the older generation, they gleefully partake in activities their parents proscribe.
 
-Though the poachers have so far kept their existence a secret from the three clans on Oro-oro-ponoro-poron, their
-presence is felt by some of the nomadic clans---but not by the wyverns. Even {% a Mosha the All-knowing %}, famous for
-her powers of precise and salient divination, only has vague forebodings of impending doom. This rare privacy is
-achieved by the owner of Krakakanamar's black market: Gizzix the Gilded, a cruel crime boss and a powerful mage. His
-spells shield the poachers from detection by magical means, allowing their deadly outings to extend deep into Lukurru
-territory.
+The poachers have gone to great lengths to keep their existence a secret from the three clans on Oro-oro-ponoro-poron.
+Even {% a Mosha the All-knowing %}, famous for her powers of precise and salient divination, only has vague forebodings
+of their presence. This rare privacy is achieved by the owner of Krakakanamar's black market: {% a Gizzig the Gilded %},
+a cruel crime boss and a powerful mage. Their spells shield their agents from detection by magical means, allowing the
+poachers' deadly outings to extend unseen deep into Lukurru territory.
 
 But Mosha is well-versed in dreams and visions, and knows to trust her intuition. Supposing magical interference, she
 has leapt to a worrying conclusion: that a rogue seer internal to the Lukurru clan is acting against her. Haunted by
 enemies she can't see and afraid of her own clan, she has turned to the {% a Bekebel %} clan for help. After all, having
 observed them so carefully during centuries of war, she understands them better than they might suspect.
 
-To communicate her need to the Bekebel without putting herself in danger, she conferred the powers of a minor oracle
-upon a small stone and delivered it to Bekebel Citadel. The stone has memorized only a simple message, but it is
-intelligent enough to selectively deliver it only to Bekebel's leaders---{% a Babanak the Great %} and {% a Elned the
-Wise %}---or to Bekebel's Elite Guard.
+To communicate her need to the Bekebel without exposing herself, she enchanted a goat's skull with a minor necromantic
+spell. When it is presented to {% a Babanak the Great %} or to Bekebel's Elite Guard, it will utter a predetermined
+message before disintegrating into a fine powder. Until then, it will ask only to be taken to Bekebel's leader.
 
-Simultaneously, a messenger arrives at the citadel from one of the nomadic clans. A hunting party was found slaughtered
-in the jungle, bearing wounds corresponding to weapons never used by any nomadic clans---ballista bolts and harpoons,
-apparently shot with great force. Their corpses were found looted and unburied, in gross outrage of the nomads'
-traditional rites.
+Simultaneously with Mosha's desperate plea, Krakakanamar's poachers stumbled upon a hunting party from a nomadic clan.
+To save these would-be snitches from needing stitches, the poachers slaughtered them and looted their corpses. Fights
+between nomadic clans are rare, and the poachers' weapons left novel wounds; huge punctures from their harpoons and
+rough gashes from their serrated steel swords. Unesttled by the massacre of their kin, the nomadic clans have become
+nervous and have sent a messenger to the Bekebel, the local experts in advanced weaponry, to ask for help in identifying
+the identity of the assailants.
 
-## The Message
+## The Message and the Messenger
 
-> A *cage* in a *ci*ty just *born*
+> A cage in a city just born
 >
-> Our *lives* and our *free*dom for*sworn*
+> My life and my freedom forsworn
 >
-> An *e*vil enc*roa*ches
+> An evil encroaches
 >
-> The *fu*ture app*roa*ches
+> The future approaches
 >
-> Barring *ac*tion, our *kin* we will *mourn*
+> Barring action, my kin we will mourn
 >
-> Divi*na*tion, you *know*, is my *name*
+> Divination, you know, is my name
 >
-> But my *vis*ion, of *late*, has gone *lame*
+> But my vision, of late, has gone lame
 >
-> My *dreams* lack co*her*ence
+> My dreams lack coherence
 >
-> I *dread* inter*fer*ence
+> I dread interference
 >
-> Who's *mag*ical *skills* are the *same*
+> Who's magical skills are the same
 >
-> An *al*ly of *yours* I was *not*
+> An ally of yours I was not
 >
-> And *though* our long *past* has been *frought*
+> And though our long past has been frought
 >
-> I *beg* you con*sid*er
+> I beg you consider
 >
-> That *we* may un*bitt*er
+> That we may unbitter
 >
-> Lest this *dan*ger em*bigg*en un*fought*
+> 'Fore this danger embiggens unfought
