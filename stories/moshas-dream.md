@@ -54,13 +54,13 @@ the identity of the assailants.
 
 > A cage in a city just born
 >
-> My life and my freedom forsworn
+> Our lives and our freedom forsworn
 >
 > An evil encroaches
 >
 > The future approaches
 >
-> Barring action, my kin we will mourn
+> Unchecked, for my kin we will mourn
 >
 > Divination, you know, is my name
 >
