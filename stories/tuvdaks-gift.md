@@ -248,10 +248,9 @@ The book is a detailed historical account about every dragon that has lived on O
 years. The book is a few decades out of date, but dragons live for centuries so any differences are minor. It is
 bookmarked to the page about {% a Ice %}, the island's only black dragon. The bookmarked page tells that many kobolds
 over the centuries have tried to form an alliance with Ice. Some have reported their stories themselves, and other tales
-are recounted only second- or third-hand. The tale told on this open page, recounted second-hand, describes how the
-druid known as Dreth the Merciless gained Ice's blessing by bringing a powerful artifact into the forest and destroying
-it in Ice's name. When Dreth returned to her clan, she could reportedly twist the minds of others and transform one
-material into another.
+are recounted only second- or third-hand. The tale told on this open page, transcribed by a historian and sourced from
+{% a Perekel %} mythology, describes how the druid known as {% a Dreth the Merciless %} gained Ice's blessing by
+bringing a powerful artifact into the forest and presenting it as a gift to the shadow dragon.
 
 #### Study
 

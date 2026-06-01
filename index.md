@@ -23,8 +23,8 @@ Azure Death %}.
 In addition to its draconic inhabitants, Oro-oro-ponoro-poron is home to the many kobold clans who worship them. The
 kobolds thrive in the island's warm environment and work industriously to ensure their clan's success, often in direct
 competition with one another. Nearly all clans worship one or more dragons, and a clan's draconic overlord often
-determines the nature of its alliances. Some notable clans are the {% a Bekebel %}, {% a Lukurru %}, {% a Dagana %}, and
-{% a Perexel %} clans.
+determines the nature of its alliances. The three largest clans are the {% a Bekebel %}, {% a Lukurru %}, {% a Dagana %}
+clans. Many smaller nomadic clans inhabit the island, including the {% a Perekel %} clan.
 
 Not all kobolds worship dragons, however. The independent city of {% a Krakakanamar %} acts as an anchor for
 Oro-oro-ponoro-poron's nomadic families and, in recent years, has risen from a minor settlement to a major shipping hub.
