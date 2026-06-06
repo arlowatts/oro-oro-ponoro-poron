@@ -1,6 +1,6 @@
 ---
 
-title: Tantan's Dying Wish
+title: Dagana's Legacy
 
 layout: page
 
