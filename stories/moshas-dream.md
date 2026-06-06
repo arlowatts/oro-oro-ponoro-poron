@@ -31,26 +31,31 @@ themselves from the older generation, they gleefully partake in activities their
 The poachers have gone to great lengths to keep their existence a secret from the three clans on Oro-oro-ponoro-poron.
 Even {% a Mosha the All-knowing %}, famous for her powers of precise and salient divination, only has vague forebodings
 of their presence. This rare privacy is achieved by the owner of Krakakanamar's black market: {% a Gizzig the Gilded %},
-a cruel crime boss and a powerful mage. Their spells shield their agents from detection by magical means, allowing the
-poachers' deadly outings to extend unseen deep into Lukurru territory.
+a cruel crime boss and a powerful mage. Gizzig's spells shield the poachers from detection by magical means, allowing
+their deadly outings to extend unseen deep into Lukurru territory.
 
 But Mosha is well-versed in dreams and visions, and knows to trust her intuition. Supposing magical interference, she
-has leapt to a worrying conclusion: that a rogue seer internal to the Lukurru clan is acting against her. Haunted by
-enemies she can't see and afraid of her own clan, she has turned to the {% a Bekebel %} clan for help. After all, having
-observed them so carefully during centuries of war, she understands them better than they might suspect.
+has considered that a talented seer is blocking her divination. Unfortunately, she has leapt to a worrying conclusion:
+that a rogue seer internal to the Lukurru clan is acting against her. Haunted by enemies she can't see and afraid of her
+own followers, she has turned to the {% a Bekebel %} clan for help, hoping they will respect their new treaty and
+forgive her past slights against them.
 
 To communicate her need to the Bekebel without exposing herself, she enchanted a goat's skull with a minor necromantic
 spell. When it is presented to {% a Babanak the Great %} or to Bekebel's Elite Guard, it will utter a predetermined
 message before disintegrating into a fine powder. Until then, it will ask only to be taken to Bekebel's leader.
 
 Simultaneously with Mosha's desperate plea, Krakakanamar's poachers stumbled upon a hunting party from a nomadic clan.
-To save these would-be snitches from needing stitches, the poachers slaughtered them and looted their corpses. Fights
+To save these would-be snitches from needing stitches, the poachers took one prisoner and slaughtered the rest. Fights
 between nomadic clans are rare, and the poachers' weapons left novel wounds; huge punctures from their harpoons and
-rough gashes from their serrated steel swords. Unesttled by the massacre of their kin, the nomadic clans have become
-nervous and have sent a messenger to the Bekebel, the local experts in advanced weaponry, to ask for help in identifying
-the identity of the assailants.
+rough gashes from their serrated steel swords. Upon the discovery of the massacre of their kin, the nomadic clans have
+become nervous and have sent a messenger to the Bekebel to ask for help in identifying the identity of the assailants.
+Their messenger will arrive on the same day as Mosha's message, hopefully prompting quick action.
 
 ## The Message and the Messenger
+
+This adventure begins at dawn, with the discovery of a goat's skull left outside Bekebel Citadel's front gate. The
+guards on duty would have quickly chucked it into the forest, thinking it the remains of a chupacabra's meal; but when
+they picked it up, it uttered "Take me to your leader!" in a gravelly voice.
 
 > A cage in a city just born
 >
