@@ -31,8 +31,8 @@ themselves from the older generation, they gleefully partake in activities their
 The poachers have gone to great lengths to keep their existence a secret from the three clans on Oro-oro-ponoro-poron.
 Even {% a Mosha the All-knowing %}, famous for her powers of precise and salient divination, only has vague forebodings
 of their presence. This rare privacy is achieved by the owner of Krakakanamar's black market: {% a Gizzig the Gilded %},
-a cruel crime boss and a powerful mage. Gizzig's spells shield the poachers from detection by magical means, allowing
-their deadly outings to extend unseen deep into Lukurru territory.
+a cruel crime boss and a powerful mage. His spells shield the poachers from detection by magical means, allowing their
+deadly outings to extend unseen deep into Lukurru territory.
 
 But Mosha is well-versed in dreams and visions, and knows to trust her intuition. Supposing magical interference, she
 has considered that a talented seer is blocking her divination. Unfortunately, she has leapt to a worrying conclusion:
