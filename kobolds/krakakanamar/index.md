@@ -15,4 +15,4 @@ future heretofore unanticipated even by the clans' greatest visionaries.
 Krakakanamar was founded by the nomadic Krankar and Nanak clans, who were later joined by the Ankankanakamakarakan clan.
 Divisions between these families still separate Krakakanamar's three main districts.
 
-The language spoken in Krakakanamr is {% a Krakanamarakan %}.
+The language spoken in Krakakanamr is {% a Krakakanamarakan %}.
