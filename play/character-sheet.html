@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Almendra+SC&display=swap" rel="stylesheet">
+<style>
+.border {
+    padding: 5px;
+
+    &.all {
+        border: 5px solid black;
+    }
+
+    &.bottom {
+        border-bottom: 5px solid black;
+    }
+
+    &.left {
+        border-left: 5px solid black;
+    }
+
+    &.right {
+        border-right: 5px solid black;
+    }
+
+    &.top {
+        border-top: 5px solid black;
+    }
+}
+</style>
+    </head>
+    <body>
+        <main>
+            <div style="font-family: 'Almendra SC', serif; font-size: 25px; font-weight: 600; font-style: normal;">
+                <div class="border all">Name</div>
+                <div style="display: flex;">
+                    <div style="flex: 60%;">
+                        <div class="border bottom left" style="height: 240px;">Personality<hr></div>
+                        <div class="border bottom left" style="height: 240px;">Motives<hr></div>
+                        <div class="border bottom left" style="height: 360px;">Background<hr></div>
+                    </div>
+                    <div style="flex: 40%;">
+                        <div class="border bottom left right" style="height: 280px;">Appearance<hr></div>
+                        <div class="border bottom left right" style="height: 440px;">Skills<hr></div>
+                        <div class="border bottom left right" style="height: 120px;">
+                            <div style="height: 33%;">Strength</div>
+                            <div style="height: 33%;">Agility</div>
+                            <div style="height: 33%;">Stamina</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </body>
+</html>
