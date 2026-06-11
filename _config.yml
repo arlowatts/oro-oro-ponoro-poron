@@ -6,3 +6,11 @@ permalink: /:path/:basename/
 
 page_excerpts: true
 excerpt_separator: <!--spoiler-->
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: page

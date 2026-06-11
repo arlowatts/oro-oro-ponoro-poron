@@ -2,8 +2,6 @@
 
 title: Tuvdak the Magnificent
 
-layout: page
-
 ---
 
 At over 600 years old, Tuvdak the Magnificent is the oldest fire-breathing dragon on Oro-oro-ponoro-poron. Tuvdak is the

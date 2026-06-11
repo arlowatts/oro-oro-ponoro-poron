@@ -2,8 +2,6 @@
 
 title: Urbul the Mystic
 
-layout: page
-
 ---
 
 Urbul the Mystic is a druid well versed in healing magic. He is a proud supporter of {% a Semeret the Motherly %} and

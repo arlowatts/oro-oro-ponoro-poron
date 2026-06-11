@@ -2,8 +2,6 @@
 
 title: Dagana
 
-layout: page
-
 ---
 
 The Dagana clan lives on a large network of floating huts, anchored to tall pillars of rock emerging from the sea near

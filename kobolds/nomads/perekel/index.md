@@ -2,8 +2,6 @@
 
 title: Perekel
 
-layout: page
-
 ---
 
 The Perekel clan is a small nomadic clan frequently allied with the {% a Bekebel %}. Perekel is one of the few clans

@@ -2,8 +2,6 @@
 
 title: Elned the Wise
 
-layout: page
-
 ---
 
 Elned the Wise is a very old sorcerer loyal to {% a Babanak the Great %}. She knows much about magical artifacts and the

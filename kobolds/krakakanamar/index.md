@@ -2,8 +2,6 @@
 
 title: Krakakanamar
 
-layout: page
-
 ---
 
 Krakakanamar is a large and bustling city on the coast of Oro-oro-ponoro-poron. Unlike the {% a Bekebel %}, {% a Lukurru

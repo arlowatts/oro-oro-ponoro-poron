@@ -2,8 +2,6 @@
 
 title: Semeret the Motherly
 
-layout: page
-
 ---
 
 Semeret the Motherly, a capable elemental mage, is the leader of the Dagana clan. Like all the leaders of the Dagana

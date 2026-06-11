@@ -2,8 +2,6 @@
 
 title: Lomon the Warrior
 
-layout: page
-
 ---
 
 Lomon the Warrior is a battle-scarred fighter who once single-handedly slew a wyvern. She is known and feared for her

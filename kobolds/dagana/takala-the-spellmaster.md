@@ -2,8 +2,6 @@
 
 title: Takala the Spellmaster
 
-layout: page
-
 ---
 
 Takala the Spellmaster is one of the Dagana clan's most powerful wizards. A master of the arcane, Takala is sometimes

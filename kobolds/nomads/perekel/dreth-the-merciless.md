@@ -2,8 +2,6 @@
 
 title: Dreth the Merciless
 
-layout: page
-
 ---
 
 Dreth the Merciless is a mythological figure on Oro-oro-ponoro-poron, depicted as a powerful and dangerous druid. Her

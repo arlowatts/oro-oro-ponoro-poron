@@ -2,8 +2,6 @@
 
 title: Ondo the Inspired
 
-layout: page
-
 ---
 
 Ondo the Inspired is an old Lukurru war general. He trains the Lukurru soldiers and draws up battle plans when he is

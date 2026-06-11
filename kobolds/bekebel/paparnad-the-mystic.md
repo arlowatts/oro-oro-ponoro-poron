@@ -2,8 +2,6 @@
 
 title: Paparnad the Mystic
 
-layout: page
-
 ---
 
 Paparnad the Mystic is a young but talented wizard. Since sorcery is common among the Bekebel, few bother to study

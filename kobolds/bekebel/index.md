@@ -2,8 +2,6 @@
 
 title: Bekebel
 
-layout: page
-
 ---
 
 Bekebel is the largest and most influential clan on Oro-oro-ponoro-poron. Within the impenetrable Bekebel Citadel, the

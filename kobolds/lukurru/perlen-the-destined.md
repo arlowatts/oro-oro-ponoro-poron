@@ -2,8 +2,6 @@
 
 title: Perlen the Destined
 
-layout: page
-
 ---
 
 Perlen the Destined is the son and only heir of {% a Irvini the Seer %}, leader of the Lukurru clan. He is proud,

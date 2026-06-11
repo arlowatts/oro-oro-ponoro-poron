@@ -2,8 +2,6 @@
 
 title: Mosha's Dream
 
-layout: page
-
 ---
 
 The {% a Bekebel %} and {% a Lukurru %} clans have recently signed a treaty affirming 81 years of peace, and are now

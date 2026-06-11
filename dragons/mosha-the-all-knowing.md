@@ -2,8 +2,6 @@
 
 title: Mosha the All-knowing
 
-layout: page
-
 ---
 
 One of the smallest of the already diminutive wyverns, Mosha the All-knowing roams the jungle near the foot of the

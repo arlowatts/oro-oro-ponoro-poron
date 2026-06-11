@@ -2,8 +2,6 @@
 
 title: Krakakanamarakan
 
-layout: page
-
 ---
 
 Krakakanamarakan is the language spoken in Krakakanamar. It naturally evolved from three dialects originally spoken by

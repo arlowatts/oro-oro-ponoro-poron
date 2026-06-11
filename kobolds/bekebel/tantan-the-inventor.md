@@ -2,8 +2,6 @@
 
 title: Tantan the Inventor
 
-layout: page
-
 ---
 
 Tantan the Inventor is a well-known and well-respected artisan of the Bekebel clan. She is known for her finely crafted

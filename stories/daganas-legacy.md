@@ -2,8 +2,6 @@
 
 title: Dagana's Legacy
 
-layout: page
-
 ---
 
 For many years, {% a Tantan the Inventor %} and {% a Babanak the Great %} of the {% a Bekebel %} clan have had a close

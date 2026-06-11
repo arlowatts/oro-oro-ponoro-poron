@@ -2,8 +2,6 @@
 
 title: Lukurru
 
-layout: page
-
 ---
 
 The Lukurru clan dwells in the thick jungle on Oro-oro-ponoro-poron, occupying a vast territory. They worship all

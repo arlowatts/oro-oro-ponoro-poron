@@ -2,8 +2,6 @@
 
 title: Ice
 
-layout: page
-
 ---
 
 While dragons, drakes, and wyverns generally make their presence known, a single shadow dragon known as Ice resides

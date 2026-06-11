@@ -2,8 +2,6 @@
 
 title: Babanak the Great
 
-layout: page
-
 ---
 
 Babanak the Great has ruled the Bekebel clan with an iron fist for 59 years. He is proud, arrogant, and easily

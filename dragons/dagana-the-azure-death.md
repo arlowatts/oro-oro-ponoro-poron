@@ -2,8 +2,6 @@
 
 title: Dagana the Azure Death
 
-layout: page
-
 ---
 
 Dagana the Azure Death is an ancient drake living just off the coast of Oro-oro-ponoro-poron. She is the oldest dragon

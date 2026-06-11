@@ -2,8 +2,6 @@
 
 title: Tuvdak's Gift
 
-layout: page
-
 ---
 
 It is tradition and custom for {% a Babanak the Great %}, leader of the {% a Bekebel %} clan, to present a gift to {% a

@@ -2,8 +2,6 @@
 
 title: Irvini the Seer
 
-layout: page
-
 ---
 
 Irvini the Seer is the leader of the Lukurru. She watches over the clan from her seat at Highvine Watch and regularly
